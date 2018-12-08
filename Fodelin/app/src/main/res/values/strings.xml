@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fodelin</string>
+    <string name="text_not_member">¿No Tienes Cuenta aún? Registrate aquí</string>
+    <string name="text_login">Login</string>
+    <string name="hint_confirm_password">Confirme La Contraseña</string>
+    <string name="text_register">Registrar</string>
+    <string name="text_already_member">¿Ya Tienes Cuenta? Loguéate</string>
+    <string name="text_hello">Hola, Bienvenido a Fodelin</string>
+
+    <string name="text_politica">
+        Declara de manera libre, expresa, inequívoca e informada, que AUTORIZA a Fodelin
+        para que, en los terminos de la ley 1581 de 2012, realice la recolección almacenamiento,
+        uso, circuación supresión y en general tratamiento de sus datos personales, incluyendo
+        datos que puedan ser considerados como sensibles de conformidad con la ley.
+    </string>
+
+</resources>
